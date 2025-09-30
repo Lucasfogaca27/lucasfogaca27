@@ -7,8 +7,8 @@
 ## 👨‍💻 Sobre Mim
 
 - 🎓 Cursando Engenharia de Software na Universidade de Caxias do Sul.
-- 💡 Tenho interesse em desenvolvimento back-end com **[JAVA]** e estou sempre buscando aprender mais sobre arquitetura de software e boas práticas.
-- 🌱 Atualmente explorando o universo de **[Desenvolvimento Backend]**.
+- 💡 Tenho interesse em desenvolvimento back-end com **JAVA** e estou sempre buscando aprender mais sobre arquitetura de software e boas práticas.
+- 🌱 Atualmente explorando o universo de **Desenvolvimento Backend**.
 - 💬 Fique à vontade para entrar em contato para trocarmos ideias sobre tecnologia!
 
 ---
