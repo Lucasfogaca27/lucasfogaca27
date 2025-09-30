@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou Lucas Fogaça de Aguiar! 👋
 
-<!--
-**Lucasfogaca27/lucasfogaca27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Analista de Suporte/Foco em Desevolvimento Backend| Estudante de Engenharia de Software
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre Mim
+
+- 🎓 Cursando Engenharia de Software na Universidade de Caxias do Sul.
+- 💡 Tenho interesse em desenvolvimento back-end com **[JAVA]** e estou sempre buscando aprender mais sobre arquitetura de software e boas práticas.
+- 🌱 Atualmente explorando o universo de **[Desenvolvimento Backend]**.
+- 💬 Fique à vontade para entrar em contato para trocarmos ideias sobre tecnologia!
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+![My Skills](https://skillicons.dev/icons?i=java,php,git,flutter,mysql,dart,vue&theme=dark)
+
+
+## 🤝 Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fogaça-de-aguiar-2a3601237)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:f.lucasaguiar@hotmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l_fogaca27)
