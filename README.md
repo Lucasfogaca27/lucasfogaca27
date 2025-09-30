@@ -1,6 +1,6 @@
 # Olá, eu sou Lucas Fogaça de Aguiar! 👋
 
-### Analista de Suporte/Foco em Desevolvimento Backend| Estudante de Engenharia de Software
+### Analista de Suporte/Foco em Desevolvimento Backend | Estudante de Engenharia de Software
 
 ---
 
