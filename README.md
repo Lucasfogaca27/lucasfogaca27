@@ -1,22 +1,21 @@
 # Fala dev! 👋 Eu sou o Lucas Fogaça
 
 <div align="left">
-  <img src="https://img.shields.io/badge/-CEO%20%26%20CTO%20%40%20Fascode-000?style=for-the-badge&logo=rocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Engenharia%20de%20Software%20%40%20UCS-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOUNDER_&_CEO-0D1117?style=for-the-badge&logo=target&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/CHIEF_TECH_OFFICER-0D1117?style=for-the-badge&logo=cpu&logoColor=00D1FF" />
+  <img src="https://img.shields.io/badge/SOFTWARE_ENGINEERING-0D1117?style=for-the-badge&logo=ucas&logoColor=white" />
 </div>
 
-> 🚀 Criando soluções escaláveis e liderando a inovação tecnológica na Fascode.
+> 🚀 Liderando a inovação tecnológica na Fascode e desenvolvendo sistemas robustos.
 
 ---
 
 ### 🛠️ Minha Stack Tecnológica
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,docker,git,js,ts,php,flutter,dart&theme=dark" />
+  </a>
 </div>
 
 ---
@@ -34,8 +33,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasfogaca27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfogaca27&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
