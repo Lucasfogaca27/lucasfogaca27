@@ -1,25 +1,52 @@
-# Olá, eu sou Lucas Fogaça de Aguiar! 👋
+# Fala dev! 👋 Eu sou o Lucas Fogaça
 
-### Analista de Suporte/Foco em Desevolvimento Backend | Estudante de Engenharia de Software
+<div align="left">
+  <img src="https://img.shields.io/badge/-CEO%20%26%20CTO%20%40%20Fascode-000?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Engenharia%20de%20Software%20%40%20UCS-blue?style=for-the-badge" />
+</div>
 
----
-
-## 👨‍💻 Sobre Mim
-
-- 🎓 Cursando Engenharia de Software na Universidade de Caxias do Sul.
-- 💡 Tenho interesse em desenvolvimento back-end com **JAVA** e estou sempre buscando aprender mais sobre arquitetura de software e boas práticas.
-- 🌱 Atualmente explorando o universo de **Desenvolvimento Backend**.
-- 💬 Fique à vontade para entrar em contato para trocarmos ideias sobre tecnologia!
+> 🚀 Criando soluções escaláveis e liderando a inovação tecnológica na Fascode.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+### 🛠️ Minha Stack Tecnológica
 
-![My Skills](https://skillicons.dev/icons?i=java,php,git,flutter,mysql,dart,vue&theme=dark)
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
 
+---
 
-## 🤝 Conecte-se Comigo
+### 📂 Projetos em Destaque
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fogaça-de-aguiar)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:f.lucasaguiar@hotmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l_fogaca27)
+| Projeto | Descrição | Tecnologia |
+| :--- | :--- | :--- |
+| **Hero Mode** | Aplicação web para gamificação da rotina pessoal. | Java / React |
+| **MedGestor** | Sistema completo para gestão de clínicas e pacientes. | Java / Spring Boot |
+| **Fascode Website** | Site institucional da nossa startup de software. | TypeScript / React |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+### ✨ Um pouco sobre mim
+
+```javascript
+const lucas = {
+  role: "CEO & CTO @ Fascode",
+  education: "Software Engineering student at UCS",
+  techStack: ["Java", "Spring Boot", "React", "Cloud Architecture"],
+  projects: ["Hero Mode", "MedGestor", "Fascode Core"],
+  status: "Building the future of software development 🚀"
+};
