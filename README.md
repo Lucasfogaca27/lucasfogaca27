@@ -46,6 +46,6 @@ const lucas = {
   role: "CEO & CTO @ Fascode",
   education: "Software Engineering student at UCS",
   techStack: ["Java", "Spring Boot", "React", "Cloud Architecture"],
-  projects: ["Hero Mode", "MedGestor", "Fascode Core"],
+  projects: ["Hero Mode", "CoreVitta", "Fascode Core"],
   status: "Building the future of software development 🚀"
 };
