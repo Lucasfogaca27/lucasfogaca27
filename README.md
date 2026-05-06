@@ -25,7 +25,7 @@
 | Projeto | Descrição | Tecnologia |
 | :--- | :--- | :--- |
 | **Hero Mode** | Aplicação web para gamificação da rotina pessoal. | Java / React |
-| **MedGestor** | Sistema completo para gestão de clínicas e pacientes. | Java / Spring Boot |
+| **CoreVitta** | Sistema completo para gestão de clínicas e pacientes. | Java / Spring Boot |
 | **Fascode Website** | Site institucional da nossa startup de software. | TypeScript / React |
 
 ---
